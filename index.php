@@ -5,10 +5,10 @@ ini_set('display_errors', 'On');
 error_reporting(E_ALL);
 
 // Credit
-$author_name = 'AlphaMusk';
-$author_version = 'v1.3';
-$author_email = 'alphamusk@networkpulse.com';
-$author_project = 'AWS Metadata PHP Page';
+$author_name = 'Amrita';
+$author_version = 'v1';
+$author_email = 'amritase@cyabge.com';
+$author_project = 'AWS Metadata Page';
 
 // Dont use dashes - in declaring variables, break them, no idea.
 // Be sure to end all http URLs with /, or some wont render data.
